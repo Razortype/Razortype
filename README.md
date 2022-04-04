@@ -17,7 +17,7 @@ Student : I'm software engineer student at [Maltepe University](https://www.malt
 - [LinkedIn](https://linkedin.com/in/orkun-kurul)
 - [Replit](https://replit.com/@Razortype)
 - [Patika](https://app.patika.dev/razortype)
-  > Enhancing backend knowledge
+  > Enhancing backend knowledge.
 - [Edabit](https://edabit.com/user/iP7wNofhZXTkJ9ryG)
   > Mainly, python question solved.
 
