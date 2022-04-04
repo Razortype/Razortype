@@ -1,8 +1,8 @@
 # About me!
-Learning : Full-Stack Development ⚙️ (Java), Web3.0 ⚡, OpenCV
-Hobbies : Articles, Music, Badminton 🏸
-Aim : AI, cryptocurrency 🚩
-Student : I'm software engineer student at [Maltepe University](https://www.maltepe.edu.tr/) - Turkey 📖
+Learning : Full-Stack Development ⚙️ (Java), Web3.0 ⚡, OpenCV <br />
+Hobbies : Articles, Music, Badminton 🏸 <br />
+Aim : AI, cryptocurrency 🚩 <br />
+Student : I'm software engineer student at [Maltepe University](https://www.maltepe.edu.tr/) - Turkey 📖 <br />
 
 # Languages and Tools
 - Python
