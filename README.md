@@ -14,7 +14,7 @@ Student : I'm software engineer student at [Maltepe University](https://www.malt
 - CSS3
 
 # WWW's
-- [LinkedIn](www.linkedin.com/in/orkun-kurul)
+- [LinkedIn](https://linkedin.com/in/orkun-kurul)
 - [Replit](https://replit.com/@Razortype)
 - [Patika](https://app.patika.dev/razortype)
 - [Edabit](https://edabit.com/user/iP7wNofhZXTkJ9ryG)
