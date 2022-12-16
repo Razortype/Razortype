@@ -44,3 +44,5 @@ Student : I'm software engineer student at [Maltepe University](https://www.malt
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razortype&theme=radical&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razortype&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=razortype&theme=dark)](https://git.io/streak-stats)
